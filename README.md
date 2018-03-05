@@ -30,3 +30,24 @@ Je vais vous demander de partir du fichier HTML que vous aviez créé et à lui 
 * Définir une ombre à un élément
 
 Vous avez bien entendu le droit de modifier le fichier .html lui-même si cela vous semble nécessaire ! Vous *devez* utiliser un fichier .css externe et le joindre au ZIP que vous créerez, en plus des images et polices éventuelles.
+
+
+Instructions de l'activité du chapitre 3
+----------------------------------------
+
+Je vais vous demander ici de structurer la page comme ceci :
+
+* A gauche, un liseré (purement décoratif, mais vous pouvez aussi mettre des informations à l'intérieur)
+* A droite, le contenu de votre CV, qui contiendra à l'intérieur, de gauche à droite les sections suivantes :
+   - Mon expérience
+   - Mes compétences
+   - Ma formation
+
+Cela devrait donner quelque chose comme ceci :
+![Aperçu du résultat attendu](image/apercu-chap-3.png)
+
+Si la hauteur du liseré peut être définie en valeur absolue (en pixels), tout le reste de la mise en page doit être en valeur relative (pourcentages). Le contenu doit occuper tout l'espace en largeur, quelle que soit la largeur de la fenêtre.
+
+N'oubliez pas d'utiliser des balises sémantiques, comme nous l'avons vu dans le cours.
+
+Vous avez bien sûr le droit de modifier le code HTML en plus du code CSS pour parvenir à un rendu similaire.
