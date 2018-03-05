@@ -1,8 +1,8 @@
 CV en ligne - Cours OpenClassrooms "Apprenez à créer votre site web avec HTML5 et CSS3"
 =======================================================================================
 
-### Instructions de l'activité du chapitre 1
---------------------------------------------
+Instructions de l'activité du chapitre 1
+----------------------------------------
 
 Voici ce que je souhaite voir apparaître sur votre CV :
 
@@ -17,3 +17,16 @@ Voici ce que je souhaite voir apparaître sur votre CV :
 Pensez à bien utiliser des balises de titre, de paragraphe et des listes à puces lorsque cela vous semble nécessaire. Et pensez à joindre les images utilisées dans le ZIP en plus du fichier .html !
 
 
+Instructions de l'activité du chapitre 2
+----------------------------------------
+
+Je vais vous demander de partir du fichier HTML que vous aviez créé et à lui ajouter les effets de style suivants :
+
+* Changer la couleur d'un des textes
+* Changer l'alignement d'un des textes
+* Appliquer une image de fond à la page
+* Utiliser une police personnalisée via @font-face
+* Définir une bordure à un élément
+* Définir une ombre à un élément
+
+Vous avez bien entendu le droit de modifier le fichier .html lui-même si cela vous semble nécessaire ! Vous *devez* utiliser un fichier .css externe et le joindre au ZIP que vous créerez, en plus des images et polices éventuelles.

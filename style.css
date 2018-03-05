@@ -1,0 +1,48 @@
+body
+{
+    background: url("image/back.png") top repeat-x;
+}
+@font-face {
+    font-family: 'karnivoreregular';
+    src: url('font/KARNIVOR-webfont.eot');
+    src: url('font/KARNIVOR-webfont.eot?#iefix') format('embedded-opentype'),
+         url('font/KARNIVOR-webfont.woff2') format('woff2'),
+         url('font/KARNIVOR-webfont.woff') format('woff'),
+         url('font/KARNIVOR-webfont.ttf') format('truetype'),
+         url('font/KARNIVOR-webfont.svg#karnivoreregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+h1
+{
+	text-align: center;
+	font-size: 3em;
+	font-family:  'karnivoreregular', Impact, Arial, Verdana, sans-serif;
+    margin: 30px 30px 30px 0px;  
+}
+.portrait
+{
+    float: right;
+    border: 3px black solid;
+    border-radius: 5px;
+    box-shadow: 6px 6px 10px grey;
+}
+.portrait:hover
+{
+    box-shadow: 6px 6px 10px #7D99C9;
+}
+h1 + p
+{
+    text-align: center;
+}
+h2
+{
+    clear: both;
+    color: #4978C9;
+    font-size: 1.3em;
+    font-family:  'karnivoreregular',Impact, "Arial Black", Arial, Verdana, sans-serif;
+}
+a:visited
+{
+    color: blue;
+}
