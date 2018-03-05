@@ -98,5 +98,31 @@ a:visited
     color: #2E55BF;
 }
 
+@media all and (max-width: 1024px)
+{
+    #bloc_lisere
+    {
+        display: none;
+    }
 
+    #bloc_page
+    {
+        display: block;
+    }
+
+    header h1
+    {
+        font-size: 1.8em;
+    }
+
+    header p
+    {
+        font-size: 1.2em;
+    }
+
+    section, #bloc_page
+    {
+        min-width: 0px;
+    }
+}
 

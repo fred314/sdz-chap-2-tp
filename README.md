@@ -51,3 +51,17 @@ Si la hauteur du liseré peut être définie en valeur absolue (en pixels), tout
 N'oubliez pas d'utiliser des balises sémantiques, comme nous l'avons vu dans le cours.
 
 Vous avez bien sûr le droit de modifier le code HTML en plus du code CSS pour parvenir à un rendu similaire.
+
+
+Instructions de l'activité du chapitre 4
+----------------------------------------
+
+Pour cet exercice, vous allez devoir adapter le CV que vous avez fait jusqu'ici pour qu'il s'affiche verticalement (et non horizontalement) sur les petites résolutions.
+
+Le schéma ci-dessous décrit comment le site doit s'afficher. A gauche, la version "normale" écran large (disons 1024 pixels de large au moins) et à droite la version réduite, plus adaptée à une expérience mobile :
+![Aperçu du résultat attendu](image/apercu-chap-4.png)
+
+Vous devrez :
+
+* Faire disparaître le liseré dans la version mobile
+* Afficher verticalement les sections expérience, compétences et formation au lieu de les afficher côte à côte horizontalement.
